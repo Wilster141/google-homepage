@@ -1,0 +1,16 @@
+img {
+	width: 269px;
+	height: 95px;
+	margin-top: 200px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+input {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+
+}
